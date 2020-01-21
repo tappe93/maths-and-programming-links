@@ -11,6 +11,7 @@
 - [Stock Market Predictions with LSTM in Python](https://www.datacamp.com/community/tutorials/lstm-python-stock-market) 
 - [The Complete Guide to Time Series Analysis and Forecasting](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775)
 - [The HDBSCAN Clustering Library](https://hdbscan.readthedocs.io/en/latest/index.html)
+- [Time Series Analysis Tutorial with Python](https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial)
 
 
 
