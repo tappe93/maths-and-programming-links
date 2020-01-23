@@ -7,6 +7,9 @@
 
 ## Python<a name="python"></a>
 
+- [How to Supercharge Excel with Python](https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2)
+- [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
+- [Improving the Random Forest in Python](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
 - [Pandas Documentation (.pdf version)](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html)
 - [Stock Market Predictions with LSTM in Python](https://www.datacamp.com/community/tutorials/lstm-python-stock-market) 
@@ -23,5 +26,6 @@
 
 ## Machine Learning<a name="machine_learning"></a>
 
+- [Introduction to Recommender System](https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26)
 - [Understanding Random Forests: From Theory to Practice](https://arxiv.org/pdf/1407.7502.pdf)
 
