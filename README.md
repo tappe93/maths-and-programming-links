@@ -4,6 +4,7 @@
 - [Java](#java)
 - [Clustering](#clustering)
 - [Machine Learning](#machine_learning)
+- [Time Series](#time_series)
 
 ## Python<a name="python"></a>
 
@@ -21,13 +22,24 @@
 
 - [A Multiple Clustering Combination Approach based on Iterative Voting Process](https://www.sciencedirect.com/science/article/pii/S131915781930597X)
 - [Accelerated Hierarchical Density Clustering](https://arxiv.org/pdf/1705.07321.pdf)
+- [BIRCH: An Efficient Data Clustering Method for Very Large Databases](https://www2.cs.sfu.ca/CourseCentral/459/han/papers/zhang96.pdf)
+- [BIRCH Clustering Algorithm Example In Python](https://towardsdatascience.com/machine-learning-birch-clustering-algorithm-clearly-explained-fb9838cbeed9)
 - [Clustering Ensemble Method](https://link.springer.com/content/pdf/10.1007/s13042-017-0756-7.pdf)
 - [Clustering Structure Analysis in Time-Series Data With Density-Based Clusterability Measure](https://s3.amazonaws.com/academia.edu.documents/61462570/Clustering_Structure_Analysis_in_Time-Series_Data_With_Density-Based_Clusterability_Measure.pdf?response-content-disposition=inline%3B%20filename%3DClustering_Structure_Analysis_in_Time-Se.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200121T105108Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9bf4862d1e3cdf39a08200b57f11a27ef4cb3600deb9d744ff5c5ca19d1197c8)
+- [Data Clustering: A Review](https://cis.temple.edu/~vasilis/Courses/CIS750/Papers/jain99data.pdf)
 - [Deep clustering: Discriminative Embeddings for Segmentation and Separation](https://arxiv.org/pdf/1508.04306.pdf) 
 - [Density-based Clustering Based on Hierarchical Density Estimate](https://github.com/vatika/Algorithm-Name-Detection/blob/master/big_dataset/Density-Based%20Clustering%20based%20on%20Hierarchical%20Density%20Estimates.pdf)
+- [Merging K-means with Hierarchical Clustering for Identifying General-Shaped Groups](https://arxiv.org/pdf/1712.08786.pdf)
+
 
 ## Machine Learning<a name="machine_learning"></a>
 
+- [Analyzing Climate Patterns with Self-Organizing Maps (SOMs)](https://towardsdatascience.com/analyzing-climate-patterns-with-self-organizing-maps-soms-8d4ef322705b)
 - [Introduction to Recommender System](https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26)
+- [Self Organizing Maps](https://towardsdatascience.com/self-organizing-maps-1b7d2a84e065)
 - [Understanding Random Forests: From Theory to Practice](https://arxiv.org/pdf/1407.7502.pdf)
 
+## Time Series<a name="time_series"></a>
+
+- [Comparison of two Time Series](http://www.maths.usyd.edu.au/u/jchan/Consult/W10_CompareTwoTimeSeries.pdf)
+- [Time Series Clustering](https://www.math.vu.nl/~sbhulai/papers/thesis-roelofsen.pdf)
