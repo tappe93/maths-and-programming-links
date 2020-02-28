@@ -10,6 +10,7 @@
 
 - [A Guide to Pandas and Matplotlib for Data Exploration](https://towardsdatascience.com/a-guide-to-pandas-and-matplotlib-for-data-exploration-56fad95f951c)
 - [How to Supercharge Excel with Python](https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2)
+- [How to Stream Text Data from Twitch with Sockets in Python](https://learndatasci.com/tutorials/how-stream-text-data-twitch-sockets-python/)
 - [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 - [Improving the Random Forest in Python](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
 - [Pandas Documentation (.pdf version)](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
