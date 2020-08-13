@@ -1,10 +1,14 @@
 ## Index
 
+- [Data Science](#data_science)
 - [Python](#python)
 - [Java](#java)
 - [Clustering](#clustering)
 - [Machine Learning](#machine_learning)
 - [Time Series](#time_series)
+
+## Data Science<a name="data_science"></a>
+- [Succeeding as a data scientist in small companies/startups](http://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c)
 
 ## Python<a name="python"></a>
 
