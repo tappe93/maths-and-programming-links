@@ -11,7 +11,7 @@
 - [Succeeding as a data scientist in small companies/startups](http://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c)
 
 ## Python<a name="python"></a>
-
+- [5 Obscure Python Libraries Every Data Scientist Should Know](https://medium.com/analytics-vidhya/5-obscure-python-libraries-every-data-scientist-should-know-3651bf5d3be3)
 - [A Guide to Pandas and Matplotlib for Data Exploration](https://towardsdatascience.com/a-guide-to-pandas-and-matplotlib-for-data-exploration-56fad95f951c)
 - [How to Supercharge Excel with Python](https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2)
 - [How to Stream Text Data from Twitch with Sockets in Python](https://learndatasci.com/tutorials/how-stream-text-data-twitch-sockets-python/)
