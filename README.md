@@ -9,6 +9,7 @@
 
 ## Data Science<a name="data_science"></a>
 - [Succeeding as a data scientist in small companies/startups](http://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c)
+- [Sports analysis with Pandas](https://towardsdatascience.com/sports-analysis-with-pandas-real-vs-barca-94f85819bf6)
 
 ## Python<a name="python"></a>
 - [5 Obscure Python Libraries Every Data Scientist Should Know](https://medium.com/analytics-vidhya/5-obscure-python-libraries-every-data-scientist-should-know-3651bf5d3be3)
