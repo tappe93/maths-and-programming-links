@@ -8,6 +8,7 @@
 - [Time Series](#time_series)
 
 ## Data Science<a name="data_science"></a>
+- [How I passed the Google Professional Data Engineer Exam in 2020](https://towardsdatascience.com/how-i-passed-google-professional-data-engineer-exam-in-2020-2830e10658b6)
 - [Succeeding as a data scientist in small companies/startups](http://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c)
 - [Sports analysis with Pandas](https://towardsdatascience.com/sports-analysis-with-pandas-real-vs-barca-94f85819bf6)
 
