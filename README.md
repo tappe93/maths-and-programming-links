@@ -43,6 +43,7 @@
 ## Machine Learning<a name="machine_learning"></a>
 
 - [Analyzing Climate Patterns with Self-Organizing Maps (SOMs)](https://towardsdatascience.com/analyzing-climate-patterns-with-self-organizing-maps-soms-8d4ef322705b)
+- [Building Neural Network using Keras for Classification](https://medium.com/datadriveninvestor/building-neural-network-using-keras-for-classification-3a3656c726c1)
 - [Introduction to Recommender System](https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26)
 - [Self Organizing Maps](https://towardsdatascience.com/self-organizing-maps-1b7d2a84e065)
 - [Understanding Random Forests: From Theory to Practice](https://arxiv.org/pdf/1407.7502.pdf)
