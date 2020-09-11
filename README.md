@@ -6,6 +6,7 @@
 - [Clustering](#clustering)
 - [Machine Learning](#machine_learning)
 - [Time Series](#time_series)
+- [Code](#code)
 
 ## Data Science<a name="data_science"></a>
 - [How I passed the Google Professional Data Engineer Exam in 2020](https://towardsdatascience.com/how-i-passed-google-professional-data-engineer-exam-in-2020-2830e10658b6)
@@ -52,3 +53,6 @@
 
 - [Comparison of two Time Series](http://www.maths.usyd.edu.au/u/jchan/Consult/W10_CompareTwoTimeSeries.pdf)
 - [Time Series Clustering](https://www.math.vu.nl/~sbhulai/papers/thesis-roelofsen.pdf)
+
+## Code<a name="code"></a>
+- [Stock analyzer and stock predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis](https://shirosaidev.github.io/stocksight/)
