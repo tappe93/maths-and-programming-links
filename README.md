@@ -16,6 +16,7 @@
 ## Python<a name="python"></a>
 - [5 Obscure Python Libraries Every Data Scientist Should Know](https://medium.com/analytics-vidhya/5-obscure-python-libraries-every-data-scientist-should-know-3651bf5d3be3)
 - [A Guide to Pandas and Matplotlib for Data Exploration](https://towardsdatascience.com/a-guide-to-pandas-and-matplotlib-for-data-exploration-56fad95f951c)
+- [Computer Vision Course](https://www.pyimagesearch.com/start-here/)
 - [How to Supercharge Excel with Python](https://towardsdatascience.com/how-to-supercharge-excel-with-python-726b0f8e22c2)
 - [How to Stream Text Data from Twitch with Sockets in Python](https://learndatasci.com/tutorials/how-stream-text-data-twitch-sockets-python/)
 - [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
